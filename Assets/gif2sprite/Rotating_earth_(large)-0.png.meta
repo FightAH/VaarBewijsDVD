@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: d9a9a11ed05896f479e27c1cb6e0122c
+timeCreated: 1538735307
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rotating_earth_(large)_0
+    21300002: Rotating_earth_(large)_1
+    21300004: Rotating_earth_(large)_2
+    21300006: Rotating_earth_(large)_3
+    21300008: Rotating_earth_(large)_4
+    21300010: Rotating_earth_(large)_5
+    21300012: Rotating_earth_(large)_6
+    21300014: Rotating_earth_(large)_7
+    21300016: Rotating_earth_(large)_8
+    21300018: Rotating_earth_(large)_9
+    21300020: Rotating_earth_(large)_10
+    21300022: Rotating_earth_(large)_11
+    21300024: Rotating_earth_(large)_12
+    21300026: Rotating_earth_(large)_13
+    21300028: Rotating_earth_(large)_14
+    21300030: Rotating_earth_(large)_15
+    21300032: Rotating_earth_(large)_16
+    21300034: Rotating_earth_(large)_17
+    21300036: Rotating_earth_(large)_18
+    21300038: Rotating_earth_(large)_19
+    21300040: Rotating_earth_(large)_20
+    21300042: Rotating_earth_(large)_21
+    21300044: Rotating_earth_(large)_22
+    21300046: Rotating_earth_(large)_23
+    21300048: Rotating_earth_(large)_24
+    21300050: Rotating_earth_(large)_25
+    21300052: Rotating_earth_(large)_26
+    21300054: Rotating_earth_(large)_27
+    21300056: Rotating_earth_(large)_28
+    21300058: Rotating_earth_(large)_29
+    21300060: Rotating_earth_(large)_30
+    21300062: Rotating_earth_(large)_31
+    21300064: Rotating_earth_(large)_32
+    21300066: Rotating_earth_(large)_33
+    21300068: Rotating_earth_(large)_34
+    21300070: Rotating_earth_(large)_35
+    21300072: Rotating_earth_(large)_36
+    21300074: Rotating_earth_(large)_37
+    21300076: Rotating_earth_(large)_38
+    21300078: Rotating_earth_(large)_39
+    21300080: Rotating_earth_(large)_40
+    21300082: Rotating_earth_(large)_41
+    21300084: Rotating_earth_(large)_42
+    21300086: Rotating_earth_(large)_43
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2413
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2413
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2413
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_3
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2413
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_4
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2413
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_5
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 2413
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_6
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2413
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2011
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2011
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_9
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2011
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_10
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2011
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_11
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2011
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_12
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 2011
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_13
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2011
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1609
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1609
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_16
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1609
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_17
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1609
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_18
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1609
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_19
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1609
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_20
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1609
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1207
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1207
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_23
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1207
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_24
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1207
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_25
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1207
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_26
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1207
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_27
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1207
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 805
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 805
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_30
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_31
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 805
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_32
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 805
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_33
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 805
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_34
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 805
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 403
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_37
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 403
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_38
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 403
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_39
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 403
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_40
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 403
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_41
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 403
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rotating_earth_(large)_43
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

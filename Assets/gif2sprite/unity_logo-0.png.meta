@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: c8a90d2d211e61f4da78ce89698a7184
+timeCreated: 1538735196
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: unity_logo_0
+    21300002: unity_logo_1
+    21300004: unity_logo_2
+    21300006: unity_logo_3
+    21300008: unity_logo_4
+    21300010: unity_logo_5
+    21300012: unity_logo_6
+    21300014: unity_logo_7
+    21300016: unity_logo_8
+    21300018: unity_logo_9
+    21300020: unity_logo_10
+    21300022: unity_logo_11
+    21300024: unity_logo_12
+    21300026: unity_logo_13
+    21300028: unity_logo_14
+    21300030: unity_logo_15
+    21300032: unity_logo_16
+    21300034: unity_logo_17
+    21300036: unity_logo_18
+    21300038: unity_logo_19
+    21300040: unity_logo_20
+    21300042: unity_logo_21
+    21300044: unity_logo_22
+    21300046: unity_logo_23
+    21300048: unity_logo_24
+    21300050: unity_logo_25
+    21300052: unity_logo_26
+    21300054: unity_logo_27
+    21300056: unity_logo_28
+    21300058: unity_logo_29
+    21300060: unity_logo_30
+    21300062: unity_logo_31
+    21300064: unity_logo_32
+    21300066: unity_logo_33
+    21300068: unity_logo_34
+    21300070: unity_logo_35
+    21300072: unity_logo_36
+    21300074: unity_logo_37
+    21300076: unity_logo_38
+    21300078: unity_logo_39
+    21300080: unity_logo_40
+    21300082: unity_logo_41
+    21300084: unity_logo_42
+    21300086: unity_logo_43
+    21300088: unity_logo_44
+    21300090: unity_logo_45
+    21300092: unity_logo_46
+    21300094: unity_logo_47
+    21300096: unity_logo_48
+    21300098: unity_logo_49
+    21300100: unity_logo_50
+    21300102: unity_logo_51
+    21300104: unity_logo_52
+    21300106: unity_logo_53
+    21300108: unity_logo_54
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unity_logo_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2976
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2976
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_2
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2976
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_3
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2976
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_4
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 2976
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_5
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 2976
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_6
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 2976
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_7
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 2976
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2551
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_9
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2551
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_10
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2551
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_11
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2551
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_12
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 2551
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_13
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 2551
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_14
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 2551
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_15
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 2551
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2126
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2126
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_18
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2126
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2126
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_20
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 2126
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_21
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 2126
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_22
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 2126
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_23
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 2126
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1701
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_25
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1701
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_26
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1701
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_27
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1701
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_28
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1701
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_29
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1701
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_30
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1701
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_31
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 1701
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1276
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_33
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1276
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_34
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1276
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_35
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1276
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_36
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1276
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_37
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1276
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_38
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1276
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_39
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 1276
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 851
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_41
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 851
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_42
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 851
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_43
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 851
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_44
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 851
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_45
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 851
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_46
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 851
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_47
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 851
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_49
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 426
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_50
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 426
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_51
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 426
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_52
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 426
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_53
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 426
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: unity_logo_54
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 426
+        width: 631
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
